@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-openai
+pandas
+python-dotenv
+ipython
+setuptools 
