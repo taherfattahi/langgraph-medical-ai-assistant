@@ -1,7 +1,8 @@
 # Conversational AI assistant for Good Health Clinic
 
 Using <b>LangGraph</b>, <b>LangChain</b>, and <b>OpenAI’s GPT</b> models, the system processes patient queries, updates their medical records, and provides intelligent responses based on their history.
-![IMAGE ALT TEXT HERE](image/my_graph.png)
+
+<img src="image/my_graph.png">
 
 ## Features
 - AI-powered Appointment Scheduling
